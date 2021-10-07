@@ -1,4 +1,4 @@
-# Парсинг большего текстого файла в GO
+# Парсинг большего лог файла в GO
 
 Источник: https://medium.com/swlh/processing-16gb-file-in-seconds-go-lang-3982c235dfa2
 
